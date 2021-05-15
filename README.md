@@ -1,7 +1,8 @@
 ![Header](https://github.com/Roman27011986/Roman27011986/blob/main/assets/banner-1559400_960_720.jpg)<!--
 **Roman27011986/Roman27011986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&show_icons=true)
+)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:

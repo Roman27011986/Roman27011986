@@ -46,6 +46,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman27011986&langs_count=8&layout=compact)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roman27011986)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Roman27011986/Roman27011986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

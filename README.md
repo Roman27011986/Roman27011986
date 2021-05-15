@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&&show_icons=true&theme=Gradient)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&&show_icons=true&theme=gradient)
 
 ### Skills and Tools
 

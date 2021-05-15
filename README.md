@@ -11,9 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Statistic:
+<!-- ### Statistic:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&show_icons=true&theme=chartreuse-dark) -->
 
 ### Skills and Tools:
 

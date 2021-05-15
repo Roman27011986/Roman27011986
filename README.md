@@ -16,10 +16,10 @@
 ### Skills and Tools
 
 <img align="left" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
-<img width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
-<img width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
-<img width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
+<img align="left" width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
+<img align="left" width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
+<img align="left" width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
+<img align="left" width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
 
 <!--
 **Roman27011986/Roman27011986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

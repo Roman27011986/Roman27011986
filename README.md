@@ -10,7 +10,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&&show_icons=true&theme=radical)
+
+### Skills and Tools
+
+[<img align='left' width="26px" src="https://github.com/prettier/prettier">]
 
 <!--
 **Roman27011986/Roman27011986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

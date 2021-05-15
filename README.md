@@ -13,7 +13,7 @@
 
 ### Statistic:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&&show_icons=true&theme=chartreuse-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&show_icons=true&theme=chartreuse-dark)](https://github.com/Roman27011986/github-readme-stats)
 
 ### Skills and Tools:
 

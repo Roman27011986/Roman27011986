@@ -15,7 +15,7 @@
 
 ### Skills and Tools
 
-<img  width="50px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
+<img  width="100px" src="https://repository-images.githubusercontent.com/49016322/13d16c00-613a-11e9-9b59-9d4b6e6cb483"/>
 
 <!--
 **Roman27011986/Roman27011986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

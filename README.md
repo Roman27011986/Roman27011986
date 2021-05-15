@@ -25,6 +25,7 @@
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
+<img align="left" width="40px" src="https://wakatime.com/static/img/editor-icons/vs-code-128.png"/>
 
 <br/>
 <br/>
@@ -43,7 +44,7 @@
 ### Statistic:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman27011986&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman27011986&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman27011986&langs_count=8&layout=compact)
 
 <!--
 **Roman27011986/Roman27011986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
